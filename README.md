@@ -58,14 +58,6 @@ sales-analysis-project/
 └── README.md
 ```
 
-## 🎓 What You'll Learn
-
-- Data cleaning techniques
-- Exploratory data analysis
-- Data visualization best practices
-- Machine learning for forecasting
-- Python programming
-
 ## 📊 Results
 
 - **Random Forest Model**: R² Score of 0.85+
@@ -87,7 +79,6 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name
 - GitHub: [NiteeshR07](https://github.com/NiteeshR07)
 - LinkedIn: [NiteeshReddy07](https://www.linkedin.com/in/niteeshreddy07)
 
